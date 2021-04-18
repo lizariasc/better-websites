@@ -1,6 +1,16 @@
-# Code Refactor Starter Code
-GOALS
-1. Accessibility 
+# Code Refactor 
+
+# DESCRIPTION 
+Horiseon, a marketing agency wanted a codebase that follows accessibility standards and the site was optimized for search engines.
+Refractor the code without changing the external behavior. 
+
+# MOCK UP OF THE WEBSITE 
+![Mock up](./assets/images/01-html-css-git-homework-demo.png "Mock up")
+
+# LINK TO DEPLOYED APP
+
+# GOALS
+1. Accessibility Standards 
 Steps taken:
 Added <nav> elements.
 Added proper id to make links work.
