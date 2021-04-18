@@ -2,12 +2,13 @@
 
 # DESCRIPTION 
 Horiseon, a marketing agency wanted a codebase that follows accessibility standards and the site was optimized for search engines.
-Refractor the code without changing the external behavior. 
+Refractor the code without changing the external behavior. I named the repository better-websites because that is what the company is about. 
 
 # MOCK UP OF THE WEBSITE 
 ![Mock up](./assets/images/01-html-css-git-homework-demo.png "Mock up")
 
 # LINK TO DEPLOYED APP
+https://lizariasc.github.io/better-websites/
 
 # GOALS
 1. Accessibility Standards 
