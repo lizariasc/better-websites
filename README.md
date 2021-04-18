@@ -1,8 +1,8 @@
 # Code Refactor 
 
 # DESCRIPTION 
-Horiseon, a marketing agency wanted a codebase that follows accessibility standards and the site was optimized for search engines.
-Refractor the code without changing the external behavior. I named the repository better-websites because that is what the company is about. 
+A codebase that follows accessibility standards and optimized for search engines.
+Obtained by refractoring the code without changing the external behavior. Also, named the repository better-websites because that is what the marketing company is all about, looking for better SEO and social media strategies to increase bussiness visibility.
 
 # MOCK UP OF THE WEBSITE 
 ![Mock up](./assets/images/01-html-css-git-homework-demo.png "Mock up")
